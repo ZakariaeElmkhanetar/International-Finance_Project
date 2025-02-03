@@ -16,4 +16,4 @@ Analyze Meta’s sources of finance and dividend policy, and assess how these el
 # Financial Ratio Analysis: 
 Using Meta’s most recent annual report, I will conduct a detailed financial performance analysis covering profitability, liquidity, and investment ratios over the most recent two consecutive financial periods (e.g., 2022/23 or 2023/24). This will provide insight into Meta's overall financial health and its ability to navigate the challenges and opportunities arising from these developments.
 
-By the end of this project, I aim to present a comprehensive understanding of how Meta’s strategic decisions, financial management, and external challenges shape its financial trajectory.
+# By the end of this project, I aim to present a comprehensive understanding of how Meta’s strategic decisions, financial management, and external challenges shape its financial trajectory.
