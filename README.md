@@ -7,7 +7,7 @@ This development focuses on Meta’s ongoing efforts to comply with the General 
 # Investments in Artificial Intelligence and the Metaverse
 Meta’s significant financial commitment to Artificial Intelligence (AI) and its pivot toward building the Metaverse are reshaping its long-term strategy. This development explores how these investments could affect Meta’s financial performance and its competitive positioning in the tech industry.
 
-The project will address the following key components:
+# The project will address the following key components:
 
 # Analysis of Recent Developments:
 Evaluate how the two chosen developments—GDPR compliance and investments in AI and the Metaverse—have already impacted Meta’s financial position or may affect its financial outlook in the near future.
